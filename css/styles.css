@@ -1,0 +1,12 @@
+body{
+    color:black;
+    background-color: rgb(231, 222, 172);
+    text-align: center;
+}
+
+h1{
+    background-color:rgb(178, 161, 238);
+}
+h3{
+    text-decoration: underline;
+}
